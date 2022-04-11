@@ -1,2 +1,2 @@
-git branch  branch_name	创建分支
+git branch  branch_name	  创建分支
 git checkout branch_name	切换分支
